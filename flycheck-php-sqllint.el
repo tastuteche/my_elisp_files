@@ -4,7 +4,7 @@
 ;;
 ;; Author: Tastu Teche <tastuteche@yahoo.com>
 ;; Maintainer: Tastu Teche <tastuteche@yahoo.com>
-;; URL: https://github.com/tastuteche/my_elisp_files/flycheck-php-sqllint.el
+;; URL: https://github.com/tastuteche/my_elisp_files/blob/master/flycheck-php-sqllint.el
 ;; Version: 0.1.0
 ;; Package-Requires: ((flycheck "0.24"))
 
